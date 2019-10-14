@@ -6,3 +6,13 @@ body{
         background: url(bg.jpeg) no-repeat;
         background-size: cover;
 }
+
+.carousel-item {
+      height: 90vh;
+      min-height: 90vh;
+      background: no-repeat center center scroll;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+}
